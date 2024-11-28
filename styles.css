@@ -1,0 +1,22 @@
+body {
+background: lightpink;
+color:  floralwhite;
+margin: 0px;
+}
+header {
+border-bottom: solid  1px    rgb(247, 235, 235, 0.67);
+padding: 20px;
+font-size: 29px;
+color: rgb(247, 235, 235, 0.67);
+}
+section {
+background:  rgb(66, 0, 97,0.38);
+padding-bottom: 23px;
+padding-top: 23px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto {
+
+    margin-right: 5%;
+}
